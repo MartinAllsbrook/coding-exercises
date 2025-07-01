@@ -1,2 +1,2 @@
 // main.ts
-console.log("hello world 1");
+console.log("hello world bundled automatically!");
